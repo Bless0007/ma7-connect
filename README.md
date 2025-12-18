@@ -1,2 +1,2 @@
-# SDA-Connect
+# sda-connect
 Seventh Day Adventist dating platform
